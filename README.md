@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello, my name is Arthur✌️
+I'm a student who loves programming. For me, the main language is <b>Kotlin</b> 
 
 <!--
 **Tanexc/Tanexc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
