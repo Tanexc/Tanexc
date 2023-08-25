@@ -51,6 +51,14 @@ I'm <b>Kotlin</b> developer and Russian student
 <li>MVC/MVVM
 <li>Dependency injection</li>
 
+## 🤝 Contacts
+
+<a href="https://t.me/tanexc"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label="/></a> 
+<a href="https://wa.me/qr/FR6RE7QOKFS6A1"><img src="https://img.shields.io/badge/Whatsapp-green?logo=whatsapp&logoColor=white&style=for-the-badge"/></a> 
+<a href="https://www.reddit.com/user/tanexc"><img src="https://img.shields.io/badge/Reddit-red?logo=reddit&logoColor=white&style=for-the-badge"/></a> 
+
+
+
 <!--
 **Tanexc/Tanexc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
