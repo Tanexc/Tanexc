@@ -9,8 +9,6 @@ I'm <b>Kotlin</b> developer and Russian student
 <img src="https://img.shields.io/badge/backend-white?style=for-the-badge">
 <img src="https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/ktor-darkorange?style=for-the-badge&logo=ktor&logoColor=white">
-<img src="https://img.shields.io/badge/koin-peach?style=for-the-badge&logo=koin&logoColor=white&color=ffe5b4">
 <img src="https://img.shields.io/badge/websocket-olive?style=for-the-badge&logo=ktor&logoColor=white">
 <img src="https://img.shields.io/badge/restapi-azure?style=for-the-badge&logo=ktor&logoColor=white">
 </p>
@@ -29,19 +27,29 @@ I'm <b>Kotlin</b> developer and Russian student
 
 <p>
 
-
-
+<img src="https://img.shields.io/badge/android-green?style=for-the-badge&logo=android&logoColor=white&color=green">
+<img src="https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/java-green?style=for-the-badge&logoColor=white&color=d76e00">
+<img src="https://img.shields.io/badge/jetpack_compose-blue?style=for-the-badge&logo=jetpackcompose&logoColor=white">
+<img src="https://img.shields.io/badge/xml-red?style=for-the-badge&logo=xml&logoColor=white&color=e86d68">
   
 </p>
 
 ### <li>Other</li>
 
+<p>
+<img src="https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=cplusplus&logoColor=white&color=1e90ff">
+<img src="https://img.shields.io/badge/python-green?style=for-the-badge&logo=python&logoColor=white&color=228b22">
+<img src="https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/figma-blue?style=for-the-badge&logo=figma&logoColor=white&color=c299ff">
+  
+</p>
+
 ## ⚙️ In my projects I use
 
-<!--Dependency injection clear architecture mvvm/mvc
-
-
-
+<li>Clean architecture</li>
+<li>MVC/MVVM
+<li>Dependency injection</li>
 
 <!--
 **Tanexc/Tanexc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
