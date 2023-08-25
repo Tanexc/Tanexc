@@ -1,5 +1,7 @@
 ### Hello, my name is Arthur✌️
-I'm <b>Kotlin</b> developer
+I'm <b>Kotlin</b> developer and Russian student
+
+
 
 <!--
 **Tanexc/Tanexc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
