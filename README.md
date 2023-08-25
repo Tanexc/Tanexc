@@ -1,7 +1,7 @@
 ### Hello, my name is Arthur✌️
 I'm <b>Kotlin</b> developer and Russian student
 
-## What I work with
+## 💡 What I work with
 
 ### <li>Web</li>
 
@@ -19,14 +19,26 @@ I'm <b>Kotlin</b> developer and Russian student
 <img src="https://img.shields.io/badge/frontend-black?style=for-the-badge">
 <img src="https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Compose-darkgreen?style=for-the-badge&logo=jetpackcompose&logoColor=white">
+<img src="https://img.shields.io/badge/bootstrap-purple?style=for-the-badge&logo=Bootstrap&logoColor=white&color=ba66ff">
 <img src="https://img.shields.io/badge/JS-blue?style=for-the-badge&logo=JavaScript&logoColor=white&color=708090">
 <img src="https://img.shields.io/badge/html-brown?style=for-the-badge&logo=html&logoColor=white">
   
 </p>
 
-## In my projects i use
+### <li>Mobile</li>
 
-Dependency injection clear architecture mvvm/mvc
+<p>
+
+
+
+  
+</p>
+
+### <li>Other</li>
+
+## ⚙️ In my projects I use
+
+<!--Dependency injection clear architecture mvvm/mvc
 
 
 
