@@ -32,6 +32,7 @@ I'm <b>Kotlin</b> developer and Russian student
 <img src="https://img.shields.io/badge/java-green?style=for-the-badge&logoColor=white&color=d76e00">
 <img src="https://img.shields.io/badge/jetpack_compose-blue?style=for-the-badge&logo=jetpackcompose&logoColor=white">
 <img src="https://img.shields.io/badge/xml-red?style=for-the-badge&logo=xml&logoColor=white&color=e86d68">
+<img alt="material" src="https://custom-icon-badges.demolab.com/badge/material%20you-palegreen?style=for-the-badge&logoColor=black&logo=material-you"/>
   
 </p>
 
