@@ -3,6 +3,19 @@ I'm <b>Kotlin</b> developer and Russian student
 
 ## 💡 What I work with
 
+### <li>Mobile</li>
+
+<p>
+
+<img src="https://img.shields.io/badge/android-green?style=for-the-badge&logo=android&logoColor=white&color=green">
+<img src="https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/java-green?style=for-the-badge&logoColor=white&color=d76e00">
+<img src="https://img.shields.io/badge/jetpack_compose-blue?style=for-the-badge&logo=jetpackcompose&logoColor=white">
+<img src="https://img.shields.io/badge/xml-red?style=for-the-badge&logo=xml&logoColor=white&color=e86d68">
+<img alt="material" src="https://custom-icon-badges.demolab.com/badge/material%20you-palegreen?style=for-the-badge&logoColor=black&logo=material-you"/>
+  
+</p>
+
 ### <li>Web</li>
 
 <p>
@@ -20,19 +33,6 @@ I'm <b>Kotlin</b> developer and Russian student
 <img src="https://img.shields.io/badge/bootstrap-purple?style=for-the-badge&logo=Bootstrap&logoColor=white&color=ba66ff">
 <img src="https://img.shields.io/badge/JS-blue?style=for-the-badge&logo=JavaScript&logoColor=white&color=708090">
 <img src="https://img.shields.io/badge/html-brown?style=for-the-badge&logo=html&logoColor=white">
-  
-</p>
-
-### <li>Mobile</li>
-
-<p>
-
-<img src="https://img.shields.io/badge/android-green?style=for-the-badge&logo=android&logoColor=white&color=green">
-<img src="https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=kotlin&logoColor=white">
-<img src="https://img.shields.io/badge/java-green?style=for-the-badge&logoColor=white&color=d76e00">
-<img src="https://img.shields.io/badge/jetpack_compose-blue?style=for-the-badge&logo=jetpackcompose&logoColor=white">
-<img src="https://img.shields.io/badge/xml-red?style=for-the-badge&logo=xml&logoColor=white&color=e86d68">
-<img alt="material" src="https://custom-icon-badges.demolab.com/badge/material%20you-palegreen?style=for-the-badge&logoColor=black&logo=material-you"/>
   
 </p>
 
