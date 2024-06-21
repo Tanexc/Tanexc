@@ -46,12 +46,6 @@ I'm <b>Kotlin</b> developer and Russian student
   
 </p>
 
-## ⚙️ In my projects I use
-
-<li>Clean architecture</li>
-<li>MVC/MVVM
-<li>Dependency injection</li>
-
 ## 🤝 Contacts
 
 <a href="https://t.me/tanexc"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label="/></a> 
