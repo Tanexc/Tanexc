@@ -52,7 +52,3 @@ I'm <b>Kotlin</b> developer and Russian student
 <a href="https://wa.me/qr/FR6RE7QOKFS6A1"><img src="https://img.shields.io/badge/Whatsapp-green?logo=whatsapp&logoColor=white&style=for-the-badge"/></a> 
 <a href="https://www.reddit.com/user/tanexc"><img src="https://img.shields.io/badge/Reddit-red?logo=reddit&logoColor=white&style=for-the-badge"/></a> 
 
-## ⭐️ Github stats
-
-<img align="left" alt="evanemran's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tanexc&theme=cobalt&show_icons=true&hide_border=true&hide=issues,contribs,prs" />
-
